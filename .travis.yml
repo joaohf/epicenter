@@ -1,0 +1,5 @@
+language: erlang
+script: "make travis"
+otp_release:
+  - 22.0
+  - 21.0
